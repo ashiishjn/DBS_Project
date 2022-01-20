@@ -67,6 +67,3 @@ Online book store website developed by PHP, HTML, Javascript, CSS and Bootstrap.
 <img alt="Search screenshot" src="https://github.com/KhatereTajfar/Bookland-Online-Book-Store-Website/blob/master/media/managerpanel.png" />
 </p>
 
-## Contact me
-In case you have any question contact me via email. 
-  tajfar.khatere@yahoo.com
